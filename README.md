@@ -21,7 +21,7 @@ User can save each entry into local storage by clicking on the save button on th
 [Local Storage Entry](Assets/Images/Local-Storage.png).  
 
 Link to Day Planner: 
-
+https://zakisab.github.io/Work-Day-Scheduler/
 
 
 
