@@ -11,14 +11,7 @@ Getting Started
 
 Page Layout
 Page includes 9 time blocks; each time block includes an hour, a section for the user to enter and event, and a save button that saves the entry in the local storage.
-
-[Layout](Assets/Images/Day-Plannet_layout.png)
-
-Enter an Event
-User can type in each timeblock. Each entry is saved separately. 
-[User Entry](Assets/Images/Enter-Text.png).  
-User can save each entry into local storage by clicking on the save button on the right hand side.
-[Local Storage Entry](Assets/Images/Local-Storage.png).  
+  
 
 Link to Day Planner: 
 https://zakisab.github.io/Work-Day-Scheduler/
